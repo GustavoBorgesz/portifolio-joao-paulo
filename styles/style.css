@@ -2,15 +2,15 @@
 
 :root {
   /*cores da pagina*/
-  --cor-primaria: #3C2A21;
-  --cor-secundaria: #E5E5CB;
-  --cor-terciaria: #aaaa8a;
-  --cor-hover: #D5CEA3;
+  --cor-primaria: #3F4E4F;
+  --cor-secundaria: #DCD7C9;
+  --cor-terciaria: #e0b28d;
+  --cor-hover: #A27B5C;
   /*estilos de fonte*/
   --fonte-primaria: 'Krona One', sans-serif;
   --fonte-secundaria: 'Montserrat', sans-serif;
   /*tamanho da fonte*/
-  --tamanho-da-fonte: 2rem;
+  --tamanho-da-fonte: 1rem;
 }
 
 * {
