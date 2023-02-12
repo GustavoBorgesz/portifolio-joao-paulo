@@ -1,4 +1,4 @@
-Este é um portfólio personalizado para João Paulo, um designer talentoso. Ele foi desenvolvido com HTML e JavaScript. É o primeiro projeto feito por mim.
+Este é um portfólio personalizado para João Paulo, um designer talentoso. Ele foi desenvolvido com HTML e JavaScript. É o primeiro projeto front-end feito por mim.
 
 # Sobre o projeto
 
